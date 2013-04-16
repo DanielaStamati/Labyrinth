@@ -15,7 +15,7 @@ Cuprins:
 
 
 
-Descriere generala
+1. Descriere generala
 
 Construirea unui labirint si miscarea unui personaj in acesta pana la atingerea unui portal. Aplicatia 
 comuta camera First Person, Third Person si Map View.
