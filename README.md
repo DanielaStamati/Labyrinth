@@ -46,6 +46,7 @@ Mai mult informatii se gasesc in comentariile din cod.
 
  
 4. Continutul Arhivei 
+
 Folderul levels contine codificarea hartilor folosite in joc.  
   - camera.cpp, camera.h - obiecte de tip camera si operatii aplicate asupra ei (translatie,  rotire)   
   - maze.cpp, Maze.h - obiect care codifica labirintul, contine coordonatele si caracteristicile obiectelor din labirint. 
@@ -55,6 +56,7 @@ Folderul levels contine codificarea hartilor folosite in joc.
 
 
 5. Functionalitati 
+
   - Miscare prin labirint 
   - Comutare camera 
   - Rotirea personajului pe toate axele o Coliziune cu obstacolele o Functionalitati Bonus  
