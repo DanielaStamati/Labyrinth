@@ -3,7 +3,8 @@ Labyrinth
 
 A character walking though a labyrinth in search for a portal to get him out.
 
-Cuprins 
+Cuprins:
+
 1. Descriere generala 
 2. Utilizare 
 3. Implementare 
