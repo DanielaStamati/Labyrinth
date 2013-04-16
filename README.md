@@ -19,9 +19,8 @@ comuta camera First Person, Third Person si Map View.
  
 2. Utilizare 
 
-2.1 Input Tastatura 
-Taste : 
-  	- UP_KEY miscarea jucatorului in directia orientarii acestruia 
+Input Tastatura 
+	- UP_KEY miscarea jucatorului in directia orientarii acestruia 
 	- DOWN_KEY  miscare spate o LEFT_KEY miscare stanga 
 	- RIGHT_KEY miscare dreapta 
 	- ‘y’   rotire pe axa OY counterclockwise 
