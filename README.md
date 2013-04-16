@@ -12,6 +12,7 @@ Cuprins:
 5. Probleme Aparute 
 6. Continutul Arhivei 
 7. Functionalitati 
+__________________________________________________________________________________________________
 
 
 
