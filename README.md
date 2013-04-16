@@ -20,6 +20,7 @@ comuta camera First Person, Third Person si Map View.
 2. Utilizare 
 
 Input Tastatura 
+
 	- UP_KEY miscarea jucatorului in directia orientarii acestruia 
 	- DOWN_KEY  miscare spate o LEFT_KEY miscare stanga 
 	- RIGHT_KEY miscare dreapta 
