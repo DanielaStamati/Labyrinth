@@ -21,14 +21,14 @@ comuta camera First Person, Third Person si Map View.
 
 2.1 Input Tastatura 
 Taste : 
-  o UP_KEY   miscarea jucatorului in directia orientarii 	acestruia 
-	o DOWN_KEY  miscare spate o LEFT_KEY miscare stanga 
-	o RIGHT_KEY miscare dreapta 
-	o ‘y’   rotire pe axa OY counterclockwise 
-	o ‘u’   rotire pe axa OY clockwise 
-	o ‘x’,’X’  rotire pe axa OX 
-	o ‘z’,’Z’  rotire pe axa OZ 
-	o ‘c’      comutare camera 
+  	- UP_KEY miscarea jucatorului in directia orientarii acestruia 
+	- DOWN_KEY  miscare spate o LEFT_KEY miscare stanga 
+	- RIGHT_KEY miscare dreapta 
+	- ‘y’   rotire pe axa OY counterclockwise 
+	- ‘u’   rotire pe axa OY clockwise 
+	- ‘x’,’X’  rotire pe axa OX 
+	- ‘z’,’Z’  rotire pe axa OZ 
+	- ‘c’      comutare camera 
  
 3. Implementare 
 Platforma: Windows 7, Visual Studio Express. 
@@ -42,17 +42,17 @@ Mai mult informatii se gasesc in comentariile din cod.
  
 4. Continutul Arhivei 
 Folderul levels contine codificarea hartilor folosite in joc.  
-  o camera.cpp, camera.h - obiecte de tip camera si operatii aplicate asupra ei (translatie,  rotire)   
-  o maze.cpp, Maze.h - obiect care codifica labirintul, contine coordonatele si caracteristicile obiectelor din labirint. 
-  o Vector3D.h – vector de coordonate, contine operatii aplicate asupra acestuia. 
-  o main.cpp 
-  o README.pdf (acest fisier)  
+  - camera.cpp, camera.h - obiecte de tip camera si operatii aplicate asupra ei (translatie,  rotire)   
+  - maze.cpp, Maze.h - obiect care codifica labirintul, contine coordonatele si caracteristicile obiectelor din labirint. 
+  - Vector3D.h – vector de coordonate, contine operatii aplicate asupra acestuia. 
+  - main.cpp 
+  - README.pdf (acest fisier)  
 
 
 5. Functionalitati 
-  o Miscare prin labirint 
-  o Comutare camera 
-  o Rotirea personajului pe toate axele o Coliziune cu obstacolele o Functionalitati Bonus  
-  o Puteri speciale (la coliziunea cu ceainic-ul jucatorul se face mai mic si poate trece prin pasaje mai inguste). 
-  o Posibilitatea de a trece de la un nivel la altul prin portale. (portalul rosu te duce intr-un nivel superior, iar 
+  - Miscare prin labirint 
+  - Comutare camera 
+  - Rotirea personajului pe toate axele o Coliziune cu obstacolele o Functionalitati Bonus  
+  - Puteri speciale (la coliziunea cu ceainic-ul jucatorul se face mai mic si poate trece prin pasaje mai inguste). 
+  - Posibilitatea de a trece de la un nivel la altul prin portale. (portalul rosu te duce intr-un nivel superior, iar 
     cel albastru in unul inferior).   
