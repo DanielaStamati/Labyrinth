@@ -15,11 +15,12 @@ Cuprins:
 
 
 
-1. Descriere generala
+Descriere generala
+
 Construirea unui labirint si miscarea unui personaj in acesta pana la atingerea unui portal. Aplicatia 
 comuta camera First Person, Third Person si Map View.
  
-2. Utilizare 
+Utilizare 
 
 Input Tastatura 
 
@@ -32,7 +33,8 @@ Input Tastatura
 	- ‘z’,’Z’  rotire pe axa OZ 
 	- ‘c’      comutare camera 
  
-3. Implementare 
+Implementare 
+
 Platforma: Windows 7, Visual Studio Express. 
 
 - Camera TPS am implementat-o pe baza camerei FPS, folosind o rotire de tip FPS si o translatie in spate. 
