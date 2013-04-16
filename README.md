@@ -5,23 +5,21 @@ A character walking though a labyrinth in search for a portal to get him out.
 
 Cuprins:
 
-1. Descriere generala 
-2. Utilizare 
-3. Implementare 
-4. Testare 
-5. Probleme Aparute 
-6. Continutul Arhivei 
-7. Functionalitati 
+- Descriere generala 
+- Utilizare 
+- Implementare 
+- Continutul Arhivei 
+- Functionalitati 
 __________________________________________________________________________________________________
 
 
 
-1. Descriere generala
+1.Descriere generala
 
 Construirea unui labirint si miscarea unui personaj in acesta pana la atingerea unui portal. Aplicatia 
 comuta camera First Person, Third Person si Map View.
  
-Utilizare 
+2.Utilizare 
 
 Input Tastatura 
 
@@ -34,7 +32,7 @@ Input Tastatura
 	- ‘z’,’Z’  rotire pe axa OZ 
 	- ‘c’      comutare camera 
  
-Implementare 
+3.Implementare 
 
 Platforma: Windows 7, Visual Studio Express. 
 
@@ -45,7 +43,7 @@ La fiecare mutare, misc camera FPS, urmand ca pozitia jucatorului sa o egalez cu
 Mai mult informatii se gasesc in comentariile din cod.
 
  
-4. Continutul Arhivei 
+4.Continutul Arhivei 
 
 Folderul levels contine codificarea hartilor folosite in joc.  
   - camera.cpp, camera.h - obiecte de tip camera si operatii aplicate asupra ei (translatie,  rotire)   
@@ -55,7 +53,7 @@ Folderul levels contine codificarea hartilor folosite in joc.
   - README.pdf (acest fisier)  
 
 
-5. Functionalitati 
+5.Functionalitati 
 
   - Miscare prin labirint 
   - Comutare camera 
